@@ -1,1 +1,498 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T13:48:25.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="UvVJDn97WqIRkQ1-D0Y0" type="github"><diagram id="1MkfNqyFbh8jdpCnV-Yu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-17T13:50:53.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="k9s8VnP3RsjN6fnQE1GN" version="20.0.4" type="github">
+  <diagram id="1MkfNqyFbh8jdpCnV-Yu" name="Page-1">
+    <mxGraphModel dx="3430" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ROu2CqORUoCn4pubzrho-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-2" target="ROu2CqORUoCn4pubzrho-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="150.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-2" value="&lt;font color=&quot;#000099&quot;&gt;DISC / RAM&lt;br&gt;Valve Force to OPEN&lt;br&gt;Valve Force to CLOSE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="119.99" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-44" target="ROu2CqORUoCn4pubzrho-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="165.93000000000006" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-5" target="ROu2CqORUoCn4pubzrho-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="349.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-5" value="&lt;font color=&quot;#009900&quot;&gt;Efficiency&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;Area Ratio Of Actuator&amp;nbsp;&lt;/font&gt;: 1.04 and 1.46" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265.64" y="218.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-7" target="ROu2CqORUoCn4pubzrho-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="530" />
+              <mxPoint x="375" y="530" />
+            </Array>
+            <mxPoint x="320" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-7" value="Pneumatic /&lt;br&gt;Hydraulic" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="345.01" y="480" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-8" value="Actuator Not available&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-10" target="ROu2CqORUoCn4pubzrho-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225.63" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-10" value="Pressure REDUCER&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;Piston Stroke (H), Dead Storage (Lsp),&lt;br&gt;Stroke Rate (n)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175.64" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-37" target="ROu2CqORUoCn4pubzrho-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225.63" y="1300" as="sourcePoint" />
+            <mxPoint x="225.63" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-13" target="ROu2CqORUoCn4pubzrho-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.63" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-13" value="Without Pressure Reducer&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;Pressure coefficient (k)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="441.88" y="1169" width="142.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-26" target="ROu2CqORUoCn4pubzrho-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.63" y="1090" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260.63" y="1080" />
+              <mxPoint x="225.63" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-27" target="ROu2CqORUoCn4pubzrho-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495.63" y="1070" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="513.63" y="1080" />
+              <mxPoint x="513.63" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-18" target="ROu2CqORUoCn4pubzrho-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375.6399999999999" y="430.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-18" value="&lt;b style=&quot;font-size: 9px&quot;&gt;Theoretical Actuator Dimension&amp;nbsp; D &amp;lt; Actuator Table&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318.14" y="320" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-20" target="ROu2CqORUoCn4pubzrho-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-20" value="NO" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-22" target="ROu2CqORUoCn4pubzrho-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-22" value="YES" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355.02" y="437.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-25" target="ROu2CqORUoCn4pubzrho-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-25" target="ROu2CqORUoCn4pubzrho-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-25" value="Pressure reducer system" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318.15" y="1025" width="113.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-26" value="YES" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="265.01" y="1070" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-27" value="NO" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="445.63" y="1070" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-28" value="Input" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="200" height="270" as="geometry">
+            <mxRectangle x="680" y="45.93" width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-29" value="&lt;font color=&quot;#009900&quot;&gt;Actuator Layout&lt;/font&gt; : Pneumatic , Hydraulic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="11.88" y="70" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-30" value="&lt;font color=&quot;#009900&quot;&gt;Actuator Design&lt;/font&gt; : Open , Close" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="11.88" y="110" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-31" value="&lt;font color=&quot;#009900&quot;&gt;Actuator with through plunger&lt;/font&gt; : Yes , No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="11.88" y="151.87" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-32" value="&lt;font color=&quot;#009900&quot;&gt;Number of inline arranged actuator&lt;/font&gt; : 1 , 2, ...&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="11.88" y="191.87" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-33" value="&lt;font color=&quot;#009900&quot;&gt;Max and Min Pressure&lt;/font&gt; : 0.45 , 0.75 Mpa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="11.88" y="230" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-34" value="&lt;font color=&quot;#009900&quot;&gt;Actuator Type&lt;/font&gt;&amp;nbsp;: PM, PKD, PKE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-28">
+          <mxGeometry x="10.63" y="30" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-36" target="ROu2CqORUoCn4pubzrho-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-36" value="&lt;span&gt;Actuator Diameter , Diameter Of Plunger&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305.01" y="585" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-37" value="&lt;span&gt;Actuator Volume&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="175.64" y="1240" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-39" target="ROu2CqORUoCn4pubzrho-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-39" value="&lt;span&gt;Air tank volume&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="175.64" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-41" target="ROu2CqORUoCn4pubzrho-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-41" value="&lt;span&gt;Air tank volume&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="453.13" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-55" target="ROu2CqORUoCn4pubzrho-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365.63" y="1005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-43" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#009900&quot;&gt;Output&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.64" y="1365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-44" value="&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;INPUT&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334.69999999999993" y="127.95" width="81.87" height="44.07" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-45" value="Output" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="485.63" y="1380" width="200" height="230" as="geometry">
+            <mxRectangle x="772.5" y="1020" width="130" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-46" value="&lt;font color=&quot;#009900&quot;&gt;Actuator Cylinder Volume&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-45">
+          <mxGeometry x="11.88" y="70" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-47" value="&lt;font color=&quot;#009900&quot;&gt;Air Tank Volume&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-45">
+          <mxGeometry x="11.88" y="110" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-48" value="&lt;font color=&quot;#009900&quot;&gt;Max Actuator Force to OPEN / CLOSE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-45">
+          <mxGeometry x="10.63" y="150" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-49" value="&lt;font color=&quot;#009900&quot;&gt;Force to OPEN / CLOSE Valve&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-45">
+          <mxGeometry x="10.63" y="190" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-50" value="&lt;font color=&quot;#009900&quot;&gt;Actuator Cylinder Diameter&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-45">
+          <mxGeometry x="10.63" y="30" width="177.5" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-51" value="Plunger Material : &lt;br&gt;Std Opt temp - &lt;b&gt;1.4057&lt;/b&gt;&lt;br&gt;low temp - &lt;b&gt;1.4404&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155.01" y="831.25" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-54" target="ROu2CqORUoCn4pubzrho-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-54" target="ROu2CqORUoCn4pubzrho-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;$$Eugen : \lambda_{e} &amp;gt; \lambda_{o} $$&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;$$ Tetmajer :&amp;nbsp; S_{KTP} &amp;gt; 2 $$&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" id="ROu2CqORUoCn4pubzrho-54">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+            <mxGeometry x="295.64" y="782.5" width="160" height="137.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ROu2CqORUoCn4pubzrho-55" value="YES" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355.01" y="970" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-57" target="ROu2CqORUoCn4pubzrho-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="744" />
+              <mxPoint x="560" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-57" value="NO" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="533.13" y="841.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROu2CqORUoCn4pubzrho-59" target="ROu2CqORUoCn4pubzrho-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-59" value="&lt;span&gt;Maximum Actuator Force CLOSE , OPEN&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="292.51" y="690" width="165" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-60" value="&lt;b&gt;Valve Spindle , Actuator Spindle&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="485.63" y="722.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-61" value="Theoretical Drive Size (D)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="202.5" width="280" height="490" as="geometry">
+            <mxRectangle x="860" y="310" width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-62" value="Pull stroke to close/open valve : &#xa;PISTON ROD THROUGH CYLINDER " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-63" value="$$ D_m = 2 * \sqrt \frac {max(F_s, F_0) * FV_0}{\pi *&amp;nbsp; P_{I,min} * n * \eta} $$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="60" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-64" value="Pull stroke to CLOSE valve : &#xa;Piston rod not through" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-65" value="$$ D_m =\left [ 2 * \sqrt \frac {F_s * FV_0}{\pi *&amp;nbsp; P_{I,min}&amp;nbsp;&amp;nbsp;* (n-1 + FV_0)&amp;nbsp;* \eta} \right ]&lt;br&gt;$$&amp;nbsp;&lt;br&gt;$$ D_m =\left [ 2 * \sqrt \frac {F_o * FV_0}{\pi *&amp;nbsp; P_{I,min}&amp;nbsp;&amp;nbsp;* n * \eta} \right ]&lt;br&gt;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="150" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-66" value="Pull stroke to OPEN valve : &#xa;Piston rod not through" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="290" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-67" value="$$ D_m =\left [ 2 * \sqrt \frac {F_s * FV_0}{\pi *&amp;nbsp; P_{I,min}&amp;nbsp;&amp;nbsp;* n * \eta} \right ]&lt;br&gt;$$&amp;nbsp;&lt;br&gt;$$ D_m =\left [ 2 * \sqrt \frac {F_o * FV_0}{\pi *&amp;nbsp; P_{I,min}&amp;nbsp;&amp;nbsp;*(n-1 + FV_0)&amp;nbsp;* \eta} \right ]&lt;br&gt;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-61">
+          <mxGeometry y="320" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-68" value="Maximum Drive Force For OPENING" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="240" width="260" height="210" as="geometry">
+            <mxRectangle x="1190" y="370" width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-69" value="Pull stroke to open valve :&#xa;Piston rod not through " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-68">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-70" value="$$ F_0 =&amp;nbsp; \frac {D^2 * \pi&lt;br&gt;}{4} *P_{I,max}&amp;nbsp;&amp;nbsp;(\frac{n-1}{FV_1} + 1)&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-68">
+          <mxGeometry y="60" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-71" value="Pull stroke to close valve : &#xa;Piston rod not through" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-68">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-72" value="$$ F_0 =&amp;nbsp; \frac {D^2 * \pi&lt;br&gt;}{4} *P_{I,max}&amp;nbsp;&lt;br&gt;&amp;nbsp;(\frac{n}{FV_1})&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-68">
+          <mxGeometry y="150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-73" value="Maximum Drive Force For CLOSING" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="450" width="260" height="210" as="geometry">
+            <mxRectangle x="1460" y="370" width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-74" value="Pull stroke to open valve : &#xa;Piston rod not through " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-73">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-75" value="$$ F_0 =&amp;nbsp; \frac {D^2 * \pi&lt;br&gt;}{4} *P_{I,max}&amp;nbsp;(\frac{n-1}{FV_1}+1)&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-73">
+          <mxGeometry y="60" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-76" value="Pull stroke to close valve : &#xa;Piston rod not through" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-73">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-77" value="$$ F_0 =&amp;nbsp; \frac {D^2 * \pi&lt;br&gt;}{4} *P_{I,max}&amp;nbsp;(\frac{n}{FV_1} )&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-73">
+          <mxGeometry y="150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-79" value="Air Vessel Size" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="940" width="250" height="360" as="geometry">
+            <mxRectangle x="90" y="750" width="250" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-80" value="Air Cylinder/Chamber size" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-81" value="$$ V_A =&amp;nbsp; \frac {D^2 * \pi&lt;br&gt;}{4 * 10^6} * (H + L_sp)&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="60" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-82" value="With PRESSURE REDUCER " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-83" value="$$ V_A =&amp;nbsp; V_A * n_S * \frac {P_I}{P_I - P_I}&lt;br&gt;&amp;nbsp;$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="150" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-84" value="WithOut PRESSURE REDUCER" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="210" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-85" value="$$ V_w = V_A *&amp;nbsp; \frac {k}{(1-k)}&lt;br&gt;&amp;nbsp;$$&amp;nbsp;&lt;br&gt;$$ k = \sqrt \frac{P_I}{P_I} $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-79">
+          <mxGeometry y="240" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-86" value="Buckling Check &#xa;(Buckling.drawio)" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="950" y="762.5" width="145" height="52.5" as="geometry">
+            <mxRectangle x="940" y="900" width="820" height="1000" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-87" value="&lt;font color=&quot;#009900&quot;&gt;Material / Temperature&lt;br&gt;Maximum Actuator Force&lt;br&gt;Bore Diameter of Spindle&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="58.7" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-88" value="Minimum Spindle &lt;br&gt;Diameter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="262.45" y="35" width="147.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-87" target="ROu2CqORUoCn4pubzrho-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336.2" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-90" value="Buckling" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="271.2" y="225" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-91" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Elastic Buckling / Euler Buckling&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="193.7" y="308" width="107.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-92" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Inelastic Buckling / Tetmajer Buckling&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="495.7" y="268" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-93" value="&lt;font color=&quot;#009900&quot;&gt;Buckling Assurance&lt;br&gt;Buckling Case&amp;nbsp;&lt;br&gt;Spindle Length&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="118.7" y="356" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-94" value="Free Buckling Length" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="253.7" y="356" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-90" target="ROu2CqORUoCn4pubzrho-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-93" target="ROu2CqORUoCn4pubzrho-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-97" value="Euler Area Moment &lt;br&gt;of Inertia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="255.56999999999988" y="430" width="161.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-94" target="ROu2CqORUoCn4pubzrho-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-99" value="Free Buckling Length" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="560.5800000000002" y="356" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-100" value="Tetmajer Area Moment &lt;br&gt;of Inertia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="562.4600000000003" y="430" width="161.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-99" target="ROu2CqORUoCn4pubzrho-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-102" value="Required Spindle Diameter" style="whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="248.7" y="505" width="174.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-97" target="ROu2CqORUoCn4pubzrho-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-104" value="&lt;span&gt;Radius Of &lt;br&gt;Inertia&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="287.7600000000004" y="565" width="96.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-102" target="ROu2CqORUoCn4pubzrho-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-106" value="Thickness &lt;br&gt;ratio (IE)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="281.04000000000013" y="630" width="110.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-104" target="ROu2CqORUoCn4pubzrho-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-108" value="Fineness &lt;br&gt;ratio (IO)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="281.04000000000013" y="700" width="110.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-106" target="ROu2CqORUoCn4pubzrho-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-111" target="ROu2CqORUoCn4pubzrho-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449.7" y="800" />
+              <mxPoint x="449.7" y="315" />
+              <mxPoint x="642.7" y="315" />
+            </Array>
+            <mxPoint x="578.7" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-111" value="If IE &amp;gt; IO" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="296.18999999999977" y="770" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-108" target="ROu2CqORUoCn4pubzrho-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-113" value="Diameter of Spindle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="276.2" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-111" target="ROu2CqORUoCn4pubzrho-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-115" value="&lt;b style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;YES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="281.04000000000013" y="830" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-116" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="391.3500000000001" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-117" value="Required Spindle Diameter" style="whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="555.5899999999999" y="505" width="174.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-100" target="ROu2CqORUoCn4pubzrho-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-119" value="&lt;span&gt;Radius Of &lt;br&gt;Inertia&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="594.6500000000003" y="565" width="96.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-117" target="ROu2CqORUoCn4pubzrho-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-121" value="Fineness &lt;br&gt;ratio (IO)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="587.9300000000001" y="630" width="110.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-119" target="ROu2CqORUoCn4pubzrho-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571.3" y="639.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-123" value="Buckling Stress &amp;amp;&amp;nbsp;&lt;br&gt;Available Compressed Stress" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="570.9000000000003" y="700" width="144.37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-121" target="ROu2CqORUoCn4pubzrho-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-125" value="Controlled Safety &lt;br&gt;check" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="582.2200000000005" y="770" width="121.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-123" target="ROu2CqORUoCn4pubzrho-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-127" value="Diameter of Spindle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="583.9250000000004" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-129" target="ROu2CqORUoCn4pubzrho-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-129" value="If SKTP &amp;gt; 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="603.7" y="830" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-125" target="ROu2CqORUoCn4pubzrho-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-132" target="ROu2CqORUoCn4pubzrho-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-132" value="Diameter Of Spindle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="276.2" y="135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-88" target="ROu2CqORUoCn4pubzrho-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-129" target="ROu2CqORUoCn4pubzrho-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788.7" y="860" />
+              <mxPoint x="788.7" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.799;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ROu2CqORUoCn4pubzrho-86" source="ROu2CqORUoCn4pubzrho-136" target="ROu2CqORUoCn4pubzrho-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="678.7" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-136" value="&lt;font color=&quot;#009900&quot;&gt;Buckling Assurance&lt;br&gt;Spindle Length&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="653.7" y="285" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-137" value="&lt;b style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;YES&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="585.7" y="890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-138" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="691.5200000000002" y="830" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROu2CqORUoCn4pubzrho-139" value="Change the Spindle Diameter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ROu2CqORUoCn4pubzrho-86">
+          <mxGeometry x="515.5899999999999" y="125" width="113.11" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
